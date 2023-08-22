@@ -1,5 +1,5 @@
 # JS projects
-collection of my js projects
+collection of my js projects😉
 
 ## projects
 
